@@ -1,4 +1,4 @@
-# ⚡ 通用代理加速 Cloudflare Worker
+# ⚡ 通用代理加速 Cloudflare Worker(简易普通版,F佬版本魔改)
 
 这是一个部署在 Cloudflare Workers 上的通用代理脚本，它可以帮助你加速访问全球的任意网络资源，尤其适用于解决某些链接（如 GitHub Releases、Docker Hub 镜像、机场订阅链接等）在中国大陆访问缓慢或无法访问的问题。
 
